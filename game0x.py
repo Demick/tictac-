@@ -118,4 +118,4 @@ def main(board):
 main(board)
 
 >>>>>>> 652dbd908d6ae5e508540cc279e6235c83e30ef7
-input("Нажмите Enter для выхода!")
+input("Нажмите Enter для выхода!")"# tictac-" 
